@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\Generics\2\bin\Debug\netcoreapp3.1\2.exe
+C:\Users\User\source\repos\Generics\2\bin\Debug\netcoreapp3.1\2.deps.json
+C:\Users\User\source\repos\Generics\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+C:\Users\User\source\repos\Generics\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+C:\Users\User\source\repos\Generics\2\bin\Debug\netcoreapp3.1\2.dll
+C:\Users\User\source\repos\Generics\2\bin\Debug\netcoreapp3.1\2.pdb
+C:\Users\User\source\repos\Generics\2\obj\Debug\netcoreapp3.1\2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Generics\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics\2\obj\Debug\netcoreapp3.1\2.dll
+C:\Users\User\source\repos\Generics\2\obj\Debug\netcoreapp3.1\2.pdb
+D:\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.exe
+D:\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.deps.json
+D:\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+D:\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+D:\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.dll
+D:\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.pdb
+D:\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.csprojAssemblyReference.cache
+D:\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+D:\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+D:\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.dll
+D:\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.pdb
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.exe
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.deps.json
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.dll
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\bin\Debug\netcoreapp3.1\2.pdb
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.dll
+C:\Users\User\Downloads\Telegram Desktop\Generics\Generics\2\obj\Debug\netcoreapp3.1\2.pdb
